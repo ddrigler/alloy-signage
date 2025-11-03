@@ -5,15 +5,14 @@
     {
       "type": "image",
       "src": "assets/alloypromo.png",
-      "caption": "Alloy Personal Training - Stronger Together",
+      "caption": "Alloy Personal Training – Stronger Together",
       "duration": 10
     },
     {
       "type": "image",
       "src": "assets/partner1.png",
-      "caption": "Partner Spotlight - SkinLab Ahwatukee",
+      "caption": "Community Partner Spotlight",
       "duration": 10
-    },
-    {
+    }
   ]
 }
