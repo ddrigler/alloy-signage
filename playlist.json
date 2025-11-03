@@ -1,17 +1,17 @@
 {
-  "version": "2025-11-02-01",
+  "version": "2025-11-02-02",
   "defaultDuration": 10,
   "slides": [
     {
       "type": "image",
       "src": "assets/alloypromo.png",
-      "caption": "Alloy Personal Training – Stronger Together",
+      "caption": "Alloy Personal Training",
       "duration": 10
     },
     {
       "type": "image",
       "src": "assets/partner1.png",
-      "caption": "Community Partner Spotlight",
+      "caption": "Community Partner",
       "duration": 10
     }
   ]
