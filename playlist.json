@@ -1,0 +1,19 @@
+{
+  "version": "2025-11-02-01",
+  "defaultDuration": 10,
+  "slides": [
+    {
+      "type": "image",
+      "src": "assets/alloypromo.png",
+      "caption": "Alloy Personal Training - Stronger Together",
+      "duration": 10
+    },
+    {
+      "type": "image",
+      "src": "assets/partner1.png",
+      "caption": "Partner Spotlight - SkinLab Ahwatukee",
+      "duration": 10
+    },
+    {
+  ]
+}
