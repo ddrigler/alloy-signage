@@ -5,13 +5,11 @@
     {
       "type": "image",
       "src": "assets/ReferralPromo.jpg",
-      "caption": "Alloy Personal Training",
-      "duration": 10
+      "duration": 15
     },
     {
       "type": "image",
-      "src": "assets/RISE_Test.jpg",
-      "caption": "Rise Modern Wellness",
+      "src": "assets/AlloyPT.jpg",
       "duration": 10
     }
   ]
