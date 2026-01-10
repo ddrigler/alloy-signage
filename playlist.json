@@ -11,11 +11,6 @@
       "type": "image",
       "src": "assets/AlloyPT.jpg",
       "duration": 10
-    },
-    {
-      "type": "image",
-      "src": "assets/HolidayOffer.jpg",
-      "duration": 20
      } 
   ]
 }
